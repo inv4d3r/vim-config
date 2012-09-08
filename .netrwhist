@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/invader/.config'
+let g:netrw_dirhist_2='/home/invader/.ncmpcpp'
+let g:netrw_dirhist_3='/etc/xdg/awesome'
+let g:netrw_dirhist_4='/home/invader/.config/awesome'
+let g:netrw_dirhist_5='/etc/conf.d'
