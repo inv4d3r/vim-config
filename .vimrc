@@ -10,3 +10,9 @@ syntax on
 filetype plugin on
 "filetype indent plugin on
 set ofu=syntaxcomplete#Complete
+set number
+syntax on
+set shiftwidth=2
+set tabstop=2
+set expandtab
+colorscheme jellybeans
