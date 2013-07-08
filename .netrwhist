@@ -1,4 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/invader/.ncmpcpp'
-let g:netrw_dirhist_2='/home/invader/notes'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/invader/.centerim5'
+let g:netrw_dirhist_2='/home/invader/.vimperator'
+let g:netrw_dirhist_3='/home/invader/.centerim5'
+let g:netrw_dirhist_4='/home/invader/.ncmpcpp'
+let g:netrw_dirhist_5='ftp://root@192.168.0.17/'
+let g:netrw_dirhist_6='ftp://192.168.0.17:root/'
+let g:netrw_dirhist_7='ftp://django@192.168.0.17/'
+let g:netrw_dirhist_8='ftp://root@192.168.0.17/'
