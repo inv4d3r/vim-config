@@ -19,10 +19,28 @@ filetype plugin on
 filetype indent plugin on
 set ofu=syntaxcomplete#Complete
 set number
+set wrap
+set linebreak
 set showcmd
 syntax on
 set shiftwidth=2
 set tabstop=2
 set expandtab
 colorscheme jellybeans
+set grepprg=grep\ -nH\ $*
+let g:tex_flavor = "latex"
+set laststatus=2
+map gf :e <cfile><cr>
 "inoremap <Tab> <C-R>=Tab_Or_Complete()<CR>
+let g:airline_theme             = 'badwolf'
+let g:airline_enable_branch     = 2
+let g:airline_enable_syntastic  = 1
+
+" vim-powerline symbols
+let g:airline_left_sep          = ''
+let g:airline_left_alt_sep      = '⮁'
+let g:airline_right_sep         = '⮂'
+let g:airline_right_alt_sep     = '⮃'
+let g:airline_branch_prefix     = '⭠'
+let g:airline_readonly_symbol   = '⭤'
+let g:airline_linecolumn_prefix = ''
