@@ -1,3 +1,6 @@
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = http://github.com/tpope/vim-rails
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/vim-scripts/The-NERD-tree.git
@@ -31,3 +34,15 @@
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = git@github.com:tpope/vim-fugitive.git
+[submodule "bundle/vim-rake"]
+	path = bundle/vim-rake
+	url = http://github.com/tpope/vim-rake
+[submodule "bundle/vim-sleuth"]
+	path = bundle/vim-sleuth
+	url = http://github.com/tpope/vim-sleuth
+[submodule "bundle/vim-coffee-script"]
+	path = bundle/vim-coffee-script
+	url = http://github.com/tpope/vim-coffee-script
+[submodule "bundle/vim-jdaddy"]
+	path = bundle/vim-jdaddy
+	url = http://github.com/tpope/vim-jdaddy
