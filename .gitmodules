@@ -76,3 +76,25 @@
 [submodule "bundle/task"]
 	path = bundle/task
 	url = https://github.com/samsonw/vim-task.git
+[submodule "bundle/signature"]
+	path = bundle/signature
+	url = https://github.com/kshenoy/vim-signature.git
+[submodule "bundle/signify"]
+	path = bundle/signify
+	url = https://github.com/mhinz/vim-signify.git
+[submodule "bundle/bufferline"]
+	path = bundle/bufferline
+	url = https://github.com/bling/vim-bufferline.git
+[submodule "bundle/gutter"]
+	path = bundle/gutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "bundle/airline-themes"]
+	path = bundle/airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+	branch = master
+[submodule "bundle/exchange"]
+	path = bundle/exchange
+	url = https://github.com/tommcdo/vim-exchange.git
+[submodule "bundle/gruvbox"]
+	path = bundle/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
